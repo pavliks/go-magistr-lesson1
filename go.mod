@@ -1,6 +1,6 @@
 module go-yandex-itmo-2025-2.1
 
-go 1.24.3
+go 1.22.12
 
 require (
 	github.com/Yandex-Practicum/go-autotests v0.13.2
