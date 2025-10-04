@@ -1,0 +1,14 @@
+module go-yandex-itmo-2025-2.1
+
+go 1.24.3
+
+require (
+	github.com/Yandex-Practicum/go-autotests v0.13.2
+	github.com/stretchr/testify v1.11.1
+)
+
+require (
+	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
+)
